@@ -3,12 +3,12 @@
 ### 1. Folder Structure
 
 ```python
-MKGFormer
+Repository
  |-- tweet-data-code.ipynb	# Main code notebook
  |-- tweets.json    # Input text data
 ```
 
-## 2. Overview
+### 2. Overview
 
 This project implements 2 analysis workloads using Twitter tweets data.
 
